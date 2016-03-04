@@ -20,5 +20,6 @@
 		<p> I play many instruments </p>
 		<h6> Most in fact almost all of them :)</h6>
 		<p> Its getting smaller and smaller</p>
+		<h1> My website</h1>
 	</body>
 </html>
